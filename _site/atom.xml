@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>杨溪's Blog</title>
+ <link href="http://username.github.io/" rel="self"/>
+ <link href="http://username.github.io"/>
+ <updated>2014-05-16T17:49:20+08:00</updated>
+ <id>http://username.github.io</id>
+ <author>
+   <name>Name Lastname</name>
+   <email>blah@email.test</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello, World</title>
+   <link href="http://username.github.io/hello-world.html"/>
+   <updated>2014-05-06T00:00:00+08:00</updated>
+   <id>http://username.github.io/hello-world</id>
+   <content type="html">&lt;p&gt;Hi, 这是我的第一篇博客.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;echo 'Hello, world'
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
