@@ -1,7 +1,7 @@
 ---
-title: 关于这个博客.
+title: 关于这个博客
 layout: post
-catepory : 
+catepory : say hello
 tags : [beginner]
 ---
 

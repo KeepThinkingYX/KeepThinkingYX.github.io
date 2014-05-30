@@ -1,7 +1,7 @@
 ---
 title: Hello, Everyone.
 layout: post
-catepory : 
+catepory : say hello
 tags : [beginner]
 ---
 

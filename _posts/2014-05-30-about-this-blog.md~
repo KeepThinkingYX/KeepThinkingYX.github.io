@@ -1,14 +1,14 @@
 ---
-title: Hello, Everyone.
+title: 关于这个博客.
 layout: post
-catepory : 
+catepory : say hello
 tags : [beginner]
 ---
 
-Hello, everyone. This is the first say hello by myself in this blog.
+大家好，这是我的新博客。有关以前的博客请看：
 
-Thanks JerryZhang for build this frame for me, and gave me many references about how to use github, jekyll and markdown. And Thanks ZixiangLu for install Ubuntu 14.04 in my PC.
+新浪博客：http://blog.sina.com.cn/earthyangxi
 
-From today, I will write something in here about my research, my interesting thing and my life.
+博客园：http://www.cnblogs.com/yangxi
 
-Let's enjoy programming and linux!
+现在对这个博客的使用还不是很熟悉，以后会渐渐的进行完善和维护，以及分类和整理。
