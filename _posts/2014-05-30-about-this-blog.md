@@ -12,3 +12,5 @@ tags : [beginner]
 博客园：http://www.cnblogs.com/yangxi
 
 现在对这个博客的使用还不是很熟悉，以后会渐渐的进行完善和维护，以及分类和整理。
+
+可以通过earthyangxi@sina.com联系我。
